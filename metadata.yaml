@@ -1,0 +1,38 @@
+_repo: Baths-and-bathing_75757
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2025-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75757'
+language: en
+pgterms:marc904: https://archive.org/details/bathsbathing00lond
+pgterms:marc905: 20240605105238anon
+pgterms:marc906: '1879'
+pgterms:marc907: GB
+production_note: deaurider, BlueDiamondHead and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bHardwicke and Bogue, $c1879.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Health primers (London, England)
+subjects:
+- !lcsh 'Hydrotherapy'
+- !lcsh 'Baths'
+- !lcsh 'Bathing customs'
+- !lcc 'RA'
+- GITenberg
+tableOfContents: The physiological action of baths -- The varieties of baths -- Bathing
+  localities -- The uses of baths -- A visit to a bath.
+title: Baths and bathing
+url: http://www.gutenberg.org/ebooks/75757
